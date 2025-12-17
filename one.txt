@@ -1,2 +1,4 @@
- this is the first file 
+ this is the first file.
+
+ Add another file to commit.        
 
