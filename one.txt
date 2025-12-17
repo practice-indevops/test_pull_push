@@ -2,3 +2,6 @@
 
  Add another file to commit.        
 
+add 1 file more
+
+add 2 file more
